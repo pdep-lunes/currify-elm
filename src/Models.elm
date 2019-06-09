@@ -7,14 +7,15 @@ import Types exposing (Song)
 
 type alias Model = {
   songs: List Song, -- songs from db.json
-  queue: List Song,
-  -- TODO: no me gusta tener las canciones acá
-  -- en la queue, creo que es mejor tener
-  -- ids
+  queue: List Song, -- songs in queue
   playerUrl: String, -- url of current song
-  onlyLiked: Bool,
+  onlyLiked: Bool, -- show onlyLiked/all
   filterText: String,
   playing: Maybe Bool,
+  -- playing state
+  --  | Just True -> is playing
+  --  | Just False -> is paused
+  --  | Nothing -> stop
   key: Nav.Key, -- navigation
   url: Url.Url -- navigation
  }
