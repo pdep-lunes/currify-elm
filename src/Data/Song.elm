@@ -2,7 +2,6 @@ module Data.Song exposing (getAllTheSongs)
 
 import Http
 import Json.Decode as D
--- import Json.Encode as E
 
 import Msg exposing (..)
 import Types exposing (Song)

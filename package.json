@@ -1,11 +1,7 @@
 {
-  "name": "spotify-elm-2019",
+  "name": "currify-elm",
   "version": "1.0.0",
-  "description": "spotify-elm-2019 tp integrador funcional pdep-lunes",
-  "main": "index.js",
-  "directories": {
-    "test": "tests"
-  },
+  "description": "tp integrador funcional pdep-lunes",
   "dependencies": {
     "axios": "^0.19.0",
     "dotenv": "^8.0.0",
@@ -19,11 +15,12 @@
   "scripts": {
     "start": "elm-app start",
     "build": "elm-app build",
-    "build-db": "tsc -p ./json-server/ & node ./json-server/fetch-data.js"
+    "build-db": "tsc -p ./json-server/ & node ./json-server/fetch-data.js",
+    "fetch-songs": "tsc -p ./json-server/ & node ./json-server/fetch-data.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pdep-lunes/spotify-elm-2019.git"
+    "url": "git+https://github.com/pdep-lunes/currify-elm.git"
   },
   "keywords": [
     "elm",
@@ -35,10 +32,5 @@
     "music",
     "utn"
   ],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/juancuiule/spotify-elm-2019/issues"
-  },
-  "homepage": "https://github.com/juancuiule/spotify-elm-2019#readme"
+  "license": "ISC"
 }
