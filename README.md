@@ -1,5 +1,5 @@
 # Currify
-> Trabajo práctico integrador del paradigma funcional. Podes ver el enunciado completo [acá](https://github.com/pdep-lunes/spotify-elm-2019)
+> Trabajo práctico integrador del paradigma funcional. Podes ver el enunciado completo [acá](./docs/enunciado.md)
 
 ![logo currify](./logo.png)
 
