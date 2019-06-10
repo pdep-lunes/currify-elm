@@ -1,8 +1,6 @@
 # Currify
-#### Trabajo práctico integrador del paradigma funcional. Podes ver el enunciado completo [acá](./docs/enunciado)
+## Trabajo práctico integrador del paradigma funcional. Podes ver el enunciado completo [acá](./docs/enunciado.md)
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit)
-
-![logo currify](./logo.png)
 
 ## Guia de instalación
 1. Realizá un fork a este proyecto. Esto lo que va a hacer es "Copiar" todo lo de este repositorio, y creará un repositorio tuyo donde podrás empezar a trabajar. (Podes realizar el fork tocando el boton que está arriba a la derecha).
