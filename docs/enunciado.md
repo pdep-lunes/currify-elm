@@ -40,6 +40,8 @@ Completá los huecos en `src/Backend.elm`, agregando las funcionalidades faltant
 
 El objetivo de este trabajo práctico es ser capaz de aplicar los conocimientos adquiridos en el primer cuatrimestre en programación en general, y en el paradigma funcional y el lenguaje Haskell en particular, para poder construir una aplicación realista simple, utilizando técnicas y tecnologías actuales de construcción de software.
 
+Se puede ver una versión de esta aplicación terminada en currify.netlify.com
+
 # Ver más
 
 Para quien quiera continuar aprendiendo, dejamos algunos links más: 
