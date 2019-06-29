@@ -1,3 +1,5 @@
+![logo de currify](./currify-logo.png)
+
 # Contexto
 
 Les docentes de PdeP nos estuvimos contactando con diferentes empresas para ver si podíamos ayudar con el desarrollo de una aplicación web. Una empresa nos llamó y nos pidió que usáramos nuestros conocimientos de funcional para crear una que compita con el más grande de las reproducciones.
@@ -8,15 +10,20 @@ Nosotres estuvimos trabajando con todo el desarrollo de la [UI](https://es.wikip
 
 El primer paso para competir exitosamente es imitar. Tendremos que copiar algunas funcionalidades básicas que ésta tiene:
 * Filtrar las canciones, por nombre de aritsta o canción a medida que escribimos en el buscador.
+![captura barra de busqueda o filtro](./search-bar.png)
 * Los botones de "Me gusta" y "No me gusta" deberían funcionar.
+![gif like/dislike song](./like.gif)
 * ¡Oh! Me olvidaba... también queremos que se puedan reproducir las canciones (duh).
+![captura efecto para reproducir canción](./play.png)
 
 # Queue
 
 Sin embargo, imitar nos va a traer problemas si no agregamos algo un poco más interesante y original.
 Queremos implementar una queue donde le usuarie pueda agregar y quitar canciones tocando cuales quiere que se reproduzcan después. Las canciones en cola deberán aparecer a la derecha de la pantalla y desaparecer de allí cuando la empezamos a escuchar.
 
-Nosotros ya nos encargamos de hacer que desaparezcan cuando las estamos escuchando
+Nosotres ya nos encargamos de hacer que desaparezcan cuando las estamos escuchando.
+
+![captura de funcionalidad queue](./queue.png)
 
 # A completar...
 
