@@ -14,7 +14,7 @@ Los pasos a seguir son los siguientes:
     Como te habrás dado cuenta, para poder correr el proyecto con tu cuenta de spotify necesitamos decirle al proyecto que queremos utilizar un usuario (o token) en particular, de donde sacaremos las canciones.
 4. Para obtener el token, anda al siguiente link: https://developer.spotify.com/console/get-current-user-top-artists-and-tracks/
 5. Hacé click en el botón que dice "GET TOKEN" ![captura de pantalla token](./token.png)
-6. Tilda el checkbox que dice `user-top-read`, ese es el único permismo sobre la cuenta que vas a necesitar, es para poder saber cuales son las canciones que mas escuchas.
+6. Tilda el checkbox que dice `user-top-read`, ese es el único permiso sobre la cuenta que vas a necesitar, es para poder saber cuales son las canciones que mas escuchas.
 ![captura de pantalla scopes](./scopes.png)
 7. Llená tus datos de Spotify, y dale permisos a la API.
 8. Copiá el token nuevo que fué creado, se encuentra al lado del botón de "GET TOKEN".
