@@ -18,8 +18,7 @@ El primer paso para competir exitosamente es imitar. Tendremos que copiar alguna
 
 # Queue
 
-Sin embargo, imitar nos va a traer problemas si no agregamos algo un poco más interesante y original.
-Queremos implementar una queue donde le usuarie pueda agregar y quitar canciones tocando cuales quiere que se reproduzcan después. Las canciones en cola deberán aparecer a la derecha de la pantalla y desaparecer de allí cuando la empezamos a escuchar.
+También queremos implementar una queue donde le usuarie pueda agregar y quitar canciones tocando cuales quiere que se reproduzcan después. Las canciones en cola deberán aparecer a la derecha de la pantalla y desaparecer de allí cuando la empezamos a escuchar.
 
 Nosotres ya nos encargamos de hacer que desaparezcan cuando las estamos escuchando.
 
