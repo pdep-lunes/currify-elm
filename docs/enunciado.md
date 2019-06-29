@@ -9,11 +9,11 @@ Nosotres estuvimos trabajando con todo el desarrollo de la [UI](https://es.wikip
 # Funcionalidades
 
 El primer paso para competir exitosamente es imitar. Tendremos que copiar algunas funcionalidades básicas que ésta tiene:
-* Filtrar las canciones, por nombre de aritsta o canción a medida que escribimos en el buscador.
+* Filtrar las canciones, por nombre de aritsta o canción a medida que escribimos en el buscador. <br>
 ![captura barra de busqueda o filtro](./search-bar.png)
-* Los botones de "Me gusta" y "No me gusta" deberían funcionar.
+* Los botones de "Me gusta" y "No me gusta" deberían funcionar.<br>
 ![gif like/dislike song](./like.gif)
-* ¡Oh! Me olvidaba... también queremos que se puedan reproducir las canciones (duh).
+* ¡Oh! Me olvidaba... también queremos que se puedan reproducir las canciones (duh). <br>
 ![captura efecto para reproducir canción](./play.png)
 
 # Queue
