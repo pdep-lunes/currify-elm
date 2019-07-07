@@ -1,5 +1,5 @@
 # Currify
-## Trabajo práctico integrador del paradigma funcional. Podes ver el enunciado completo [acá](./docs/enunciado.md)
+## Trabajo práctico integrador del paradigma funcional. Podes ver el enunciado completo [acá](https://docs.google.com/document/d/1oMX8h175rToYK-_v_0P-cK2T1ASmWotrUQM6XbtoXuY/edit?usp=sharing)
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/pdep-lunes/currify-elm)
 
 ## Guia de instalación
